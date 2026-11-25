@@ -1,0 +1,13 @@
+# Python 3.12. These are the versions the training server ran in Oct 2026 (experiments/requirements-box-oct5.txt
+# has the full list from that venv, which also holds packages this repo doesn't use).
+numpy==2.5.2
+scipy==1.18.1
+opencv-python-headless==5.0.0.93
+pandas==3.0.5
+PyYAML==6.0.3
+pillow==12.3.0
+torch==2.14.0
+onnx==1.22.0
+onnxscript==0.7.1
+onnxruntime==1.29.0
+pytest

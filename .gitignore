@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+runs/
+runs_*/
+logs/
+shard_state/
+*.engine
